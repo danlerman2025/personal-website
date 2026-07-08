@@ -1,2 +1,3 @@
-# personal-website
-Dan Lerman — danlerman.com
+# Dan Lerman
+
+Source + sitemaps for [danlerman.com](https://danlerman.com).
